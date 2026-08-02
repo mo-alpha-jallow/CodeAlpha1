@@ -3,7 +3,7 @@ def chatbot():
     responses = {
         "hello": "Hello! How can I help you?",
         "how are you": "I am doing great. Thanks for asking!",
-        "what is your name": "I am CodeAlpha's Basic Chatbot.",
+        "what is your name": "I am Alpha's Basic Chatbot.",
         "thanks": "You're welcome!",
         "good morning": "Good morning! Have a wonderful day!",
         "good night": "Good night! Sleep well!",
